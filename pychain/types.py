@@ -1,0 +1,1 @@
+HexStr = str
